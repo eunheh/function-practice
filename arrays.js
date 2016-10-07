@@ -86,7 +86,7 @@ function find(wordIs) {
 };
 
 // ---------------------------
-// 5. Join Both Arrays Together
+// 6. Join Both Arrays Together
 // ---------------------------
 function joinBoth(numbers, strings) {
   var newArray = [];
@@ -100,7 +100,7 @@ function joinBoth(numbers, strings) {
 };
 
 // ---------------------------
-// 6. Use the Instructors array and find all that teach JavaScript,
+// 7. Use the Instructors array and find all that teach JavaScript,
 //    then sort them alphabetically
 // ---------------------------
 
